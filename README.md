@@ -10,7 +10,7 @@ Develop a predictive model to forecast the spread and impact of COVID-19 in diff
 
 ## Screenshot
 
-
+Screenshot (113).png
 
 ## Tools
 
