@@ -8,10 +8,6 @@ The COVID-19 pandemic has significantly impacted societies worldwide, leading to
 ## Objective:
 Develop a predictive model to forecast the spread and impact of COVID-19 in different regions or countries.
 
-## Screenshot
-
-Screenshot (113).png
-
 ## Tools
 
 * Python - Pandas, Matplotlib, Seaborn , plotly
