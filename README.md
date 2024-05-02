@@ -14,7 +14,7 @@ Develop a predictive model to forecast the spread and impact of COVID-19 in diff
 
 ## Tools
 
-* Python - Pandas, Matplotlib, Seaborn
+* Python - Pandas, Matplotlib, Seaborn , plotly
 
 Key Components:
 
